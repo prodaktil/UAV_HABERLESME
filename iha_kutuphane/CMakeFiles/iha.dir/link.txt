@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/iha.dir/src/iha.cpp.o -o iha  -Wl,-rpath,/usr/local/lib libiha_kontrol.a -lpthread /usr/local/lib/libmavsdk.so.1.4.0 

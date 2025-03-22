@@ -1,0 +1,4 @@
+/home/prodaktil/iha_kutuphane/CMakeFiles/iha_kontrol.dir
+/home/prodaktil/iha_kutuphane/CMakeFiles/iha.dir
+/home/prodaktil/iha_kutuphane/CMakeFiles/edit_cache.dir
+/home/prodaktil/iha_kutuphane/CMakeFiles/rebuild_cache.dir

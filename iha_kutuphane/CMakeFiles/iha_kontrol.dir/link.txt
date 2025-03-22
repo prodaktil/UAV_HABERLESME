@@ -1,0 +1,2 @@
+/usr/bin/ar qc libiha_kontrol.a CMakeFiles/iha_kontrol.dir/include/iha_kontrol.cpp.o
+/usr/bin/ranlib libiha_kontrol.a

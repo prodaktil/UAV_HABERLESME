@@ -1,0 +1,3 @@
+/home/prodaktil/ornek/CMakeFiles/takeoff_and_land.dir
+/home/prodaktil/ornek/CMakeFiles/edit_cache.dir
+/home/prodaktil/ornek/CMakeFiles/rebuild_cache.dir
